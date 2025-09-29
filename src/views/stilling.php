@@ -1,0 +1,1 @@
+<!-- stilling.php - Empty view file ready for implementation -->
